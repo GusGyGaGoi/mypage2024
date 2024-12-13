@@ -1,6 +1,11 @@
-table,td {
-    border: 2px solid rgb(140, 140, 140);
-}
+img
+{
+    width: 400%; 
+    height: 400%; 
+    border-radius: 50%;
+} 
+
+ 
 
 
 table {
@@ -36,4 +41,16 @@ table {
    tfoot td {
     font-weight: bold;
   }
+
+
+
+
  
+  <p h1{
+    background-color: #FFE893;
+  } /p>
+
+
+ 
+
+
